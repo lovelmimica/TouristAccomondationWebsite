@@ -1,4 +1,5 @@
 {
+  "homepage": "http://lovelmimica.github.io/tourist-accomondation-website-preview",
   "name": "apartments-tomasovic-website",
   "version": "0.1.0",
   "private": true,
@@ -7,6 +8,7 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "aos": "^2.3.4",
+    "npm-git-install": "^0.3.0",
     "react": "^16.13.1",
     "react-alice-carousel": "^2.5.1",
     "react-booking-form": "^1.0.46",
@@ -18,6 +20,8 @@
     "styled-components": "^5.1.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -37,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }

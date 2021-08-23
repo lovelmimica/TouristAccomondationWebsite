@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc012b16c219fac458e585c5d4e21ea9",
+    "revision": "edc01589a96f0df5ec3b0d639f3463ca",
     "url": "/tourist-accomondation-website-preview/index.html"
   },
   {
-    "revision": "69b3ca8d4512026a7ce0",
+    "revision": "7a8efce137dc1b9d2245",
     "url": "/tourist-accomondation-website-preview/static/css/2.3d1ee733.chunk.css"
   },
   {
-    "revision": "c256ae5759c4c0130849",
+    "revision": "7724aac522a4158c6588",
     "url": "/tourist-accomondation-website-preview/static/css/main.0a51452f.chunk.css"
   },
   {
-    "revision": "69b3ca8d4512026a7ce0",
-    "url": "/tourist-accomondation-website-preview/static/js/2.2271ca38.chunk.js"
+    "revision": "7a8efce137dc1b9d2245",
+    "url": "/tourist-accomondation-website-preview/static/js/2.bebb3e1b.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/tourist-accomondation-website-preview/static/js/2.2271ca38.chunk.js.LICENSE.txt"
+    "url": "/tourist-accomondation-website-preview/static/js/2.bebb3e1b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c256ae5759c4c0130849",
-    "url": "/tourist-accomondation-website-preview/static/js/main.f80b608b.chunk.js"
+    "revision": "7724aac522a4158c6588",
+    "url": "/tourist-accomondation-website-preview/static/js/main.fdcce552.chunk.js"
   },
   {
-    "revision": "226ec598dd1ddc3269c4",
-    "url": "/tourist-accomondation-website-preview/static/js/runtime-main.eee42c20.js"
+    "revision": "5886ecae4294b36f5be2",
+    "url": "/tourist-accomondation-website-preview/static/js/runtime-main.c503a474.js"
   },
   {
     "revision": "e45bc0877e4c0ffb5b5b45c413a26725",

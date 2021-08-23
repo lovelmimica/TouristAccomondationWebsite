@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/tourist-accomondation-website-preview/static/css/main.0a51452f.chunk.css",
-    "main.js": "/tourist-accomondation-website-preview/static/js/main.f80b608b.chunk.js",
-    "main.js.map": "/tourist-accomondation-website-preview/static/js/main.f80b608b.chunk.js.map",
-    "runtime-main.js": "/tourist-accomondation-website-preview/static/js/runtime-main.eee42c20.js",
-    "runtime-main.js.map": "/tourist-accomondation-website-preview/static/js/runtime-main.eee42c20.js.map",
+    "main.js": "/tourist-accomondation-website-preview/static/js/main.fdcce552.chunk.js",
+    "main.js.map": "/tourist-accomondation-website-preview/static/js/main.fdcce552.chunk.js.map",
+    "runtime-main.js": "/tourist-accomondation-website-preview/static/js/runtime-main.c503a474.js",
+    "runtime-main.js.map": "/tourist-accomondation-website-preview/static/js/runtime-main.c503a474.js.map",
     "static/css/2.3d1ee733.chunk.css": "/tourist-accomondation-website-preview/static/css/2.3d1ee733.chunk.css",
-    "static/js/2.2271ca38.chunk.js": "/tourist-accomondation-website-preview/static/js/2.2271ca38.chunk.js",
-    "static/js/2.2271ca38.chunk.js.map": "/tourist-accomondation-website-preview/static/js/2.2271ca38.chunk.js.map",
+    "static/js/2.bebb3e1b.chunk.js": "/tourist-accomondation-website-preview/static/js/2.bebb3e1b.chunk.js",
+    "static/js/2.bebb3e1b.chunk.js.map": "/tourist-accomondation-website-preview/static/js/2.bebb3e1b.chunk.js.map",
     "index.html": "/tourist-accomondation-website-preview/index.html",
-    "precache-manifest.e27adfa448ad504da9c8edab2f6eecd7.js": "/tourist-accomondation-website-preview/precache-manifest.e27adfa448ad504da9c8edab2f6eecd7.js",
+    "precache-manifest.827300af91cde439a024eb9f085b6da4.js": "/tourist-accomondation-website-preview/precache-manifest.827300af91cde439a024eb9f085b6da4.js",
     "service-worker.js": "/tourist-accomondation-website-preview/service-worker.js",
     "static/css/2.3d1ee733.chunk.css.map": "/tourist-accomondation-website-preview/static/css/2.3d1ee733.chunk.css.map",
     "static/css/main.0a51452f.chunk.css.map": "/tourist-accomondation-website-preview/static/css/main.0a51452f.chunk.css.map",
-    "static/js/2.2271ca38.chunk.js.LICENSE.txt": "/tourist-accomondation-website-preview/static/js/2.2271ca38.chunk.js.LICENSE.txt",
+    "static/js/2.bebb3e1b.chunk.js.LICENSE.txt": "/tourist-accomondation-website-preview/static/js/2.bebb3e1b.chunk.js.LICENSE.txt",
     "static/media/CharterBT.ttf": "/tourist-accomondation-website-preview/static/media/CharterBT.e45bc087.ttf",
     "static/media/beach.jpeg": "/tourist-accomondation-website-preview/static/media/beach.66e7bb91.jpeg",
     "static/media/dashed-border.png": "/tourist-accomondation-website-preview/static/media/dashed-border.83318545.png",
@@ -33,10 +33,10 @@
     "static/media/view.jpg": "/tourist-accomondation-website-preview/static/media/view.e8de2627.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.eee42c20.js",
+    "static/js/runtime-main.c503a474.js",
     "static/css/2.3d1ee733.chunk.css",
-    "static/js/2.2271ca38.chunk.js",
+    "static/js/2.bebb3e1b.chunk.js",
     "static/css/main.0a51452f.chunk.css",
-    "static/js/main.f80b608b.chunk.js"
+    "static/js/main.fdcce552.chunk.js"
   ]
 }

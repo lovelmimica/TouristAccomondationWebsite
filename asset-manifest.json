@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/tourist-accomondation-website-preview/static/css/main.0a51452f.chunk.css",
+    "main.js": "/tourist-accomondation-website-preview/static/js/main.f80b608b.chunk.js",
+    "main.js.map": "/tourist-accomondation-website-preview/static/js/main.f80b608b.chunk.js.map",
+    "runtime-main.js": "/tourist-accomondation-website-preview/static/js/runtime-main.eee42c20.js",
+    "runtime-main.js.map": "/tourist-accomondation-website-preview/static/js/runtime-main.eee42c20.js.map",
+    "static/css/2.3d1ee733.chunk.css": "/tourist-accomondation-website-preview/static/css/2.3d1ee733.chunk.css",
+    "static/js/2.2271ca38.chunk.js": "/tourist-accomondation-website-preview/static/js/2.2271ca38.chunk.js",
+    "static/js/2.2271ca38.chunk.js.map": "/tourist-accomondation-website-preview/static/js/2.2271ca38.chunk.js.map",
+    "index.html": "/tourist-accomondation-website-preview/index.html",
+    "precache-manifest.e27adfa448ad504da9c8edab2f6eecd7.js": "/tourist-accomondation-website-preview/precache-manifest.e27adfa448ad504da9c8edab2f6eecd7.js",
+    "service-worker.js": "/tourist-accomondation-website-preview/service-worker.js",
+    "static/css/2.3d1ee733.chunk.css.map": "/tourist-accomondation-website-preview/static/css/2.3d1ee733.chunk.css.map",
+    "static/css/main.0a51452f.chunk.css.map": "/tourist-accomondation-website-preview/static/css/main.0a51452f.chunk.css.map",
+    "static/js/2.2271ca38.chunk.js.LICENSE.txt": "/tourist-accomondation-website-preview/static/js/2.2271ca38.chunk.js.LICENSE.txt",
+    "static/media/CharterBT.ttf": "/tourist-accomondation-website-preview/static/media/CharterBT.e45bc087.ttf",
+    "static/media/beach.jpeg": "/tourist-accomondation-website-preview/static/media/beach.66e7bb91.jpeg",
+    "static/media/dashed-border.png": "/tourist-accomondation-website-preview/static/media/dashed-border.83318545.png",
+    "static/media/enjoy.png": "/tourist-accomondation-website-preview/static/media/enjoy.6b3d70fb.png",
+    "static/media/everything-you-need.jpg": "/tourist-accomondation-website-preview/static/media/everything-you-need.81c584f7.jpg",
+    "static/media/footer-background.jpg": "/tourist-accomondation-website-preview/static/media/footer-background.4cef155a.jpg",
+    "static/media/gallery-1.jpg": "/tourist-accomondation-website-preview/static/media/gallery-1.c6e1a6b2.jpg",
+    "static/media/gallery-2.jpg": "/tourist-accomondation-website-preview/static/media/gallery-2.0dd543d2.jpg",
+    "static/media/gallery-3.jpg": "/tourist-accomondation-website-preview/static/media/gallery-3.0b3faae1.jpg",
+    "static/media/gallery-4.jpg": "/tourist-accomondation-website-preview/static/media/gallery-4.c7901596.jpg",
+    "static/media/gallery-5.jpg": "/tourist-accomondation-website-preview/static/media/gallery-5.42b4c0fc.jpg",
+    "static/media/gallery-6.jpg": "/tourist-accomondation-website-preview/static/media/gallery-6.425abdcc.jpg",
+    "static/media/interier.jpg": "/tourist-accomondation-website-preview/static/media/interier.d4644e36.jpg",
+    "static/media/map-mask.png": "/tourist-accomondation-website-preview/static/media/map-mask.27cc5fef.png",
+    "static/media/private-and-clean.jpg": "/tourist-accomondation-website-preview/static/media/private-and-clean.e0f1a8de.jpg",
+    "static/media/room-1.jpg": "/tourist-accomondation-website-preview/static/media/room-1.cc87f294.jpg",
+    "static/media/view.jpg": "/tourist-accomondation-website-preview/static/media/view.e8de2627.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eee42c20.js",
+    "static/css/2.3d1ee733.chunk.css",
+    "static/js/2.2271ca38.chunk.js",
+    "static/css/main.0a51452f.chunk.css",
+    "static/js/main.f80b608b.chunk.js"
+  ]
+}
